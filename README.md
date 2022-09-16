@@ -26,9 +26,9 @@
 
 ### Thèmes de recherche
 
-- **Théorie des jeux** : décision multi-agents (stratégique, collaborative, etc.)
-- **Théories de l'incertitude** : 
-- **Méthodes de preuve formelle** : Assistant de preuve *Coq*
+- Théorie des jeux
+- Théories de l'incertitude
+- Méthodes de preuve formelle
 
 ## Publications
 
@@ -44,20 +44,27 @@
 ### Exposés et présentations
 
 - 2022 
-  - Fargier, Hélène, Érik Martin-Dorel, et Pierre Pomeret-Coquot. « Bel-Games: A Formal Theory of Games of Incomplete Information Based on Belief Functions in the Coq Proof Assistant ». In Ecole Jeunes Chercheuses et Chercheurs en Informatique Mathématique. Nice, France: Maison de la Modélisation, de la Simulation et des Interactions [MSI], 2022. https://hal.archives-ouvertes.fr/hal-03709703.
-
+  - **EJCIM 2022** Fargier, Hélène, Érik Martin-Dorel, et Pierre Pomeret-Coquot. « Bel-Games: A Formal Theory of Games of Incomplete Information Based on Belief Functions in the Coq Proof Assistant ». In Ecole Jeunes Chercheuses et Chercheurs en Informatique Mathématique. Nice, France: Maison de la Modélisation, de la Simulation et des Interactions [MSI], 2022. https://hal.archives-ouvertes.fr/hal-03709703.
+  - **Café FSL** : Présentation de « Bel-Games: A Formal Theory of Games of Incomplete Information 
+Based on Belief Functions in the Coq Proof Assistant »
+- 2021
+  - **RJCIA 2021** : Présentation de l'article « Jeux Incomplets Algébriques » à RJCIA
+  - **TYPES 2021** : Présentation de la preuve Coq concernant l'article » Jeux incomplets Algébriques » 
+- Autres ? = Exposés d'équipe
 
 ## Enseignement
 
 - 2020-2021
-  - Programmation fonctionnelle, introduction aux types abstraits (Licence 3) -- Cours/TD et TP
-  - Types abstraits et programmation fonctionnelle avancée (Licence 3) -- Cours/TD et TP
+  - Programmation fonctionnelle, introduction aux types abstraits (Licence 3) -- Cours/TD et TP (distanciel)
+  - Types abstraits et programmation fonctionnelle avancée (Licence 3) -- Cours/TD et TP (distanciel)
+  - Modèles d'Incertitude, de Décision et de Raisonnement (Master 1) -- Cours/TD (distanciel)
 - 2021-2022
   - Logique 2 (Licence 2) -- Cours/TD
   - Théorie des langages -- TP
   - Types abstraits et programmation fonctionnelle avancée (Licence 3) -- Cours/TD
+  - Modèles d'Incertitude, de Décision et de Raisonnement (Master 1) -- Cours/TD (Théorie des jeux)
 - 2022-2023
-  - Systèmes et Réseaux 2 (Licence) -- TP (partie "Réseaux")
+  - Systèmes et Réseaux 2 (Licence) -- TP
   - Bases de données (Licence) -- TP
 
 
