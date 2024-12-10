@@ -7,7 +7,7 @@
 </td>
 <td>
 
-- **Status :** PhD student
+- **Status :** PhD
 - **Laboratory :** [Institut de Recherche en Informatique de Toulouse (IRIT)](https://www.irit.fr/?lang=fr)
 - **Teams :** [Argumentation, Décision, Raisonnement, Incertitude et Apprentissage (ADRIA)](https://www.irit.fr/departement/intelligence-artificielle/adria/) -- [Assistance à la Certification des Applications Distribuées et Embarquées (ACADIE)](https://www.irit.fr/departement/fiabilite-des-systemes-et-des-logiciels/equipe-acadie/)
 - **Mail :** pierre.pomeret [at] irit.fr
