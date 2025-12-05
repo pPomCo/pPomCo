@@ -7,7 +7,7 @@
 </td>
 <td>
 
-- **Status :** PhD
+- **Status :** Maître de conférence
 - **Laboratory :** [Institut de Recherche en Informatique de Toulouse (IRIT)](https://www.irit.fr/?lang=fr)
 - **Team :** [Argumentation, Décision, Raisonnement, Incertitude et Apprentissage (ADRIA)](https://www.irit.fr/departement/intelligence-artificielle/adria/)
 - **Mail :** pierre.pomeret [at] irit.fr
