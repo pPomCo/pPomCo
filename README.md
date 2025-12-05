@@ -12,7 +12,7 @@
 - **Team :** [Argumentation, Décision, Raisonnement, Incertitude et Apprentissage (ADRIA)](https://www.irit.fr/departement/intelligence-artificielle/adria/)
 - **Mail :** pierre.pomeret [at] irit.fr
 - **Localisation :** IUT Rodez
-- **Web page :** [🇫🇷](https://ppomco.github.io/) [🇬🇧](https://ppomco.github.io/presentation_en.html)
+- **Web page :** [https://www.irit.fr/~Pierre.Pomeret](https://www.irit.fr/~Pierre.Pomeret)
 
 </td>
 </tr>
